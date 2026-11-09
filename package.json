@@ -1,0 +1,18 @@
+{
+  "name": "axiion-stock-management",
+  "version": "5.27.0",
+  "description": "AXIION \u09b8\u09cd\u099f\u0995 \u0993 \u09b8\u09c7\u09b2\u09b8 \u09ae\u09cd\u09af\u09be\u09a8\u09c7\u099c\u09ae\u09c7\u09a8\u09cd\u099f \u09b8\u09bf\u09b8\u09cd\u099f\u09c7\u09ae \u2014 Developed by AXIION TECHNOLOGY",
+  "private": true,
+  "dependencies": {
+    "@supabase/supabase-js": "^2.43.0"
+  },
+  "engines": {
+    "node": "22.x"
+  },
+  "devDependencies": {
+    "esbuild": "^0.21.5"
+  },
+  "scripts": {
+    "build": "node build.js"
+  }
+}
